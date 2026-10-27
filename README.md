@@ -170,7 +170,7 @@ ForenTrace was designed and built together by:
 
 - **Hoor** · [@HoorFawaz](https://github.com/HoorFawaz)
 - **Danah** · [@danahfawaz](https://github.com/danahfawaz)
-- **Khaled** . [@khaled222k](https://github.com/kahled222k)
+- **Khaled** . [@khaled222k](https://github.com/khaled222k)
 ---
 
 <div align="center">
