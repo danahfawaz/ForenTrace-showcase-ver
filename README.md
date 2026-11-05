@@ -130,7 +130,7 @@ The whole platform works in **Arabic (RTL)** and **English**, with professional 
 ## Solo or as a team
 
 - **Solo:** play every role yourself, from collecting the evidence to submitting the report.
-- **Group:** split the roles (collector, custodian, examiner, analyst and case lead) and work the case together, with chain of custody between team members.
+- **Group:** split the roles (case lead, collector, custodian and examiner) and work the case together, with chain of custody between team members.
 
 ---
 
